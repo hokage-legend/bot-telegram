@@ -1,0 +1,13 @@
+[Unit]
+Description=Telegram Bot Atlantic H2H
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/root/bot
+ExecStart=/usr/bin/python3 /root/bot/bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
