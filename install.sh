@@ -66,6 +66,7 @@ then
     echo "Git tidak ditemukan. Menginstal Git..."
     sudo apt-get update
     sudo apt-get install -y git
+    sudo pip3 install python-telegram-bot
 fi
 
 echo "Mengunduh repository dari GitHub..."
