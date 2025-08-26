@@ -2,7 +2,7 @@
 API_KEY = "isRvfcVi2uUCGjwpN7OoFUvxDshDroXlrv0gDICCVmzeGimCg6VhUmRFwwaB6cKP6OTdf4z36bbYwGM8LpgtzkJR1LqsK2pzBT30"
 
 # Token Bot Telegram dari BotFather
-TELEGRAM_BOT_TOKEN = "7950860104:AAHS1-L006XnwHqkwsEw8JJpLhD41gUEnko"
+TELEGRAM_BOT_TOKEN = "7950860104:AAEtLjf8mVDo6OE2LvETtbrbcBZxKGc2nvA"
 
 # Endpoint API
 API_ENDPOINT = "https://atlantich2h.com/layanan/price_list"
