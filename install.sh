@@ -106,7 +106,7 @@ Description=Telegram PPOB Reseller Bot
 After=network.target
 
 [Service]
-ExecStart=/root/bot-telegram/venv/bin/python /root/bot-telegram/utama.py
+ExecStart=/usr/bin/python3 /root/bot-telegram/bot/utama.bot
 WorkingDirectory=$PWD
 User=root
 Group=root
